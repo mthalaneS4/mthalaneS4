@@ -29,7 +29,7 @@ Developed an HR analytics dashboard to enhance workforce management:
 ## Achievements
 - 🏆 **Microsoft Azure AI Associate** certified.
 - 📊 **Power BI Certification** showcasing advanced data visualization skills.
-- 🏆 Certified **Azure Data Scientist Associate** – Skilled in machine learning, AI, and cloud-based analytics using Azure.
+- 🏆 Certified **Azure Data Science Associate** – Skilled in machine learning, AI, and cloud-based analytics using Azure.
 - 📚 Continuously learning and applying new data analytics techniques to enhance my skill set.
 
 ## Connect With Me
