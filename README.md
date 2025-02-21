@@ -5,13 +5,13 @@ I’m a dedicated data analyst with a keen interest in data visualization and bu
 
 - 🎓 **Recent Graduate** in Information Technology from Richfield College (2024).
 - 📊 Proficient in **Power BI**, **PostgreSQL**, and **data analysis**.
-- 💻 Skilled in **C#** and **Java**, with ongoing learning in **Python**.
-
+- 💻 Skilled in **C#** and **Java**, with expertise in **Python**, and **SQL**.
+- 🐍 **Certified in Python for Data Science**, with a focus on data manipulation, analysis, and visualization.
 
 ## Key Skills
 - **Data Visualization**: Expertise in creating intuitive dashboards and reports using Power BI.
 - **Database Management**: Proficient in managing and querying databases using PostgreSQL.
-- **Programming**: Strong foundation in object-oriented programming with C# and Java.
+- **Programming**: Strong foundation in object-oriented programming with C# and Java, and advanced skills in **Python**, and **SQL** for data analysis.
 
 ## Projects
 ### ⚽ FIFA World Cup Data Analysis
@@ -30,8 +30,9 @@ Developed an HR analytics dashboard to enhance workforce management:
 - 🏆 **Microsoft Azure AI Associate** certified.
 - 📊 **Power BI Certification** showcasing advanced data visualization skills.
 - 🏆 Certified **Azure Data Science Associate** – Skilled in machine learning, AI, and cloud-based analytics using Azure.
-- 📚 Continuously learning and applying new data analytics techniques to enhance my skill set.
+- 📚 **Certified in Python for Data Science** – Focused on data manipulation, analysis, and visualization techniques.
+- Continuously learning and applying new data analytics techniques to enhance my skill set.
 
 ## Connect With Me
-- 💼 [LinkedIn Profile](https://za.linkedin.com/in/slindokuhle-mthalane-864504285)
+- 💼  [LinkedIn Profile](https://za.linkedin.com/in/slindokuhle-mthalane-864504285)
 - 📫 Mthalaneslindokuhle@gmail.com
