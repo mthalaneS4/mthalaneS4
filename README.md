@@ -7,10 +7,11 @@ I’m a dedicated data analyst with a keen interest in data visualization and bu
 - 📊 Proficient in **Power BI**, **PostgreSQL**, and **data analysis**.
 - 💻 Skilled in **C#** and **Java**, with expertise in **Python**, and **SQL**.
 - 🐍 **Certified in Python for Data Science**, with a focus on data manipulation, analysis, and visualization.
+- 🏆 Oracle SQL Certified, demonstrating proficiency in database management and SQL querying.
 
 ## Key Skills
 - **Data Visualization**: Expertise in creating intuitive dashboards and reports using Power BI.
-- **Database Management**: Proficient in managing and querying databases using PostgreSQL.
+- **Database Management**: Proficient in managing and querying databases using PostgreSQL and Oracle SQL.
 - **Programming**: Strong foundation in object-oriented programming with C# and Java, and advanced skills in **Python**, and **SQL** for data analysis.
 
 ## Projects
@@ -31,6 +32,7 @@ Developed an HR analytics dashboard to enhance workforce management:
 - 📊 **Power BI Certification** showcasing advanced data visualization skills.
 - 🏆 Certified **Azure Data Science Associate** – Skilled in machine learning, AI, and cloud-based analytics using Azure.
 - 📚 **Certified in Python for Data Science** – Focused on data manipulation, analysis, and visualization techniques.
+- 🏆 Oracle SQL Certified – Proficient in SQL querying, database management, and optimization.
 - Continuously learning and applying new data analytics techniques to enhance my skill set.
 
 ## Connect With Me
