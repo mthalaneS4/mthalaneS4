@@ -9,6 +9,7 @@ I’m a dedicated data analyst with a keen interest in data visualization and bu
 - 🐍 **Certified in Python for Data Science**, focusing on data manipulation, analysis, and visualization.  
 - 📊 **Certified in R Programming for Statistics and Data Science**, covering statistical modeling, hypothesis testing, regression analysis, and data visualization in R.  
 - 🏆 **Oracle SQL Certified**, demonstrating proficiency in database management, advanced SQL querying, and optimization.  
+- 🌐 **Certified in BigQuery for Data Analysts**, showcasing skills in querying and analyzing data using Google BigQuery.  
 
 ## Key Skills  
 - **Data Visualization**: Expertise in creating interactive dashboards and reports using Power BI.  
@@ -43,6 +44,7 @@ Developed an HR analytics dashboard to enhance workforce management:
 - 📚 **Certified in Python for Data Science** – Focused on data manipulation, analysis, and visualization techniques.  
 - 📊 **Certified in R Programming for Statistics and Data Science** – Proficient in statistical modeling and hypothesis testing.  
 - 🏆 **Oracle SQL Certified** – Proficient in SQL querying, database management, and optimization.  
+- 🌐 **Certified in BigQuery for Data Analysts** – Skilled in querying and analyzing data using Google BigQuery.  
 - Continuously learning and applying new data analytics techniques to enhance my skill set.  
 
 ## Connect With Me  
